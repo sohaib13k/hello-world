@@ -1,0 +1,84 @@
+[33mcommit 4ee627ee9e981d908c1fd9ed99e97cef10efa4a4[m[33m ([m[1;36mHEAD -> [m[1;32mmyBranch[m[33m)[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 15:49:09 2018 +0530
+
+    testing rebaising
+
+[33mcommit 01299e88e3b314c3783afeab8b145a1f71417654[m[33m ([m[1;32mmaster[m[33m)[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 15:03:36 2018 +0530
+
+    added
+
+[33mcommit b2a3b5bcb56f429fa01623daa78389e137ddde89[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 14:56:34 2018 +0530
+
+    sasa
+
+[33mcommit f5fce447dedc50dcb473554d6f764e997c8d1795[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 14:35:02 2018 +0530
+
+    asdasdasd
+
+[33mcommit 15490434659178a2368b6417c12916fb17d28c5f[m[33m ([m[1;32mls[m[33m)[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 14:23:31 2018 +0530
+
+    first branch changes
+
+[33mcommit 392f8517bf4020090d5dc6a219ad334cf8f992dd[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 13:43:02 2018 +0530
+
+    using vim first commit message
+
+[33mcommit 3eb70b5016d0a3d93b64911e6eb9cdb9c86ed573[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 13:40:21 2018 +0530
+
+    suck
+
+[33mcommit 4bf95df63ef1ffd6aa94025ab8dde5d1dbaf753e[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 13:36:34 2018 +0530
+
+    qa!
+    
+    ;;
+
+[33mcommit bd31a2dc9462842ecce0f2982644665d2593be55[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 12:38:54 2018 +0530
+
+    Adding looping before editing
+
+[33mcommit 7a7d568b8e3afb819eae66f41dc05531a6ebd505[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Wed Mar 14 11:19:24 2018 +0530
+
+    Update README.md
+
+[33mcommit f493424bac84fc31d6ef4fca54e393c31bec88f9[m
+Merge: 646ec3e 9554e0f
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Tue Mar 13 01:24:21 2018 +0530
+
+    Merge pull request #1 from sohaib13k/feature
+    
+    Update README.md
+
+[33mcommit 9554e0f31deecb5a5bf8f142b1f944a4ecd2ee60[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Tue Mar 13 01:18:29 2018 +0530
+
+    Update README.md
+    
+    added about KG
+
+[33mcommit 646ec3ed15dfc03aeca27289c38233c9dc3976f0[m
+Author: sohaib13k <sohaibk13@gmail.com>
+Date:   Tue Mar 13 01:10:17 2018 +0530
+
+    Initial commit
